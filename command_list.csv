@@ -1,0 +1,203 @@
+    1  git
+    2  whoami
+    3  help
+    4  help cd
+    5  clear
+    6  cls
+    7  pwd
+    8  cd
+    9  pwd
+   10  cd desktop
+   11  pwd
+   12  ls
+   13  dir
+   14  cd sql
+   15  pwd
+   16  cd ..
+   17  pwd
+   18  clear
+   19  pwd
+   20  cd sql
+   21  ls
+   22  ping www.google.com
+   23  ipcont ig
+   24  ipconf ig
+   25  delete
+   26  clear
+   27  cd..
+   28  clear
+   29  git config --global user.nameBusra
+   30  git config -- global user.email busrakurt447@gmail.com
+   31  pwd
+   32  cd SQL
+   33  PWD
+   34  pwd
+   35  cd SQL
+   36  CLEAR
+   37  git config --global user.name Busra
+   38  git config --global user.email busrakurt447@gmail.com
+   39  pwd
+   40  cd SQL
+   41  CD SQL
+   42  cd SQL
+   43  cd SQL
+   44  cd mac slack
+   45  cd token
+   46  cd ShareX
+   47  pwd
+   48  die
+   49  dir
+   50  clear
+   51  whoami
+   52  help
+   53  clear
+   54  cls
+   55  cls
+   56  clear
+   57  pwd
+   58  cd
+   59  pwd
+   60  cd desktop 
+   61  pwd
+   62  clear
+   63  git config --global user.name Busra
+   64  git config --global user.email busrakurt447@gmail.com
+   65  cd SQL
+   66  git init
+   67  git add .
+   68  git commit -m "ilk versiyon"
+   69  git push
+   70  git remote add origin https://github.com/busrakurt86/Goit.git
+   71  git push -u origin master
+   72  [200~git push -u origin master
+   73   git push -u origin main
+   74  git push -u origin main
+   75  clear
+   76  git branch
+   77  git branch busra
+   78  git branch 
+   79  git branch remzi
+   80  git branch
+   81  git checkout busra
+   82  git branch
+   83  git checkıut main
+   84  git checkout main
+   85  git branch
+   86  git checkout busra
+   87  clear
+   88  git checkout main
+   89  clear
+   90  git add .
+   91  git commit -m "master ilk commit"
+   92  git checkout busra
+   93  git add .
+   94  git commit -m "v1"
+   95  git checkout main
+   96  git merge busra
+   97  git add .
+   98  git commit -m "v2"
+   99  git push
+  100  git checkout busra
+  101  git merge main
+  102  git add .
+  103  git commit -m "son hali"
+  104  clear
+  105  git branch
+  106  git push
+  107  git push --set-upstream origin busra
+  108  git add .
+  109  git commit -m "son versiyon"
+  110  git push
+  111  git merge main
+  112  git checkout main
+  113  git add .
+  114  git commit -m "son değişiklik"
+  115  git push
+  116  git checkout busra
+  117  git add .
+  118  git commit -m "son değişiklik"
+  119  git push
+  120  clear
+  121  git add .
+  122  git commit -m" son versiyon"
+  123  git push
+  124  clear
+  125  git clone https://github.com/busrakurt86/Goit.git
+  126  git branch busrakurt
+  127  git add .
+  128  git
+  129  git branch busrakurt
+  130  git add .
+  131  git commit -m "busrakurt"
+  132  git push
+  133  clear
+  134  git branch
+  135  git checkout main
+  136  git branch
+  137  git add .
+  138  git commit -m "v1"
+  139  git branch
+  140  git branch busra
+  141  clear
+  142  pwd
+  143  cd homework 10
+  144  clear
+  145  whoami
+  146  help
+  147  clear
+  148  pwd
+  149  cd desktop
+  150  pwd
+  151  ls
+  152  cd homewrok 10
+  153  cd homework 10
+  154  pwd
+  155  clear
+  156  pwd
+  157  cd lms odev
+  158  clear
+  159  cd SQL
+  160  cd ..
+  161  cd lms odev
+  162  cd ödev
+  163  clear
+  164  pwd
+  165  ödev..
+  166  cd ..
+  167  clear
+  168  pwd
+  169  cd ödev
+  170  git config --global user.name busra
+  171  git config --global user.email busrakurt447@gmail.com
+  172  pwd
+  173  clear
+  174  cd
+  175  pwd
+  176  cd desktop
+  177  cd hw_10
+  178  [200~
+  179  clear
+  180  pwd
+  181  git clone <https://github.com/busrakurt86/HW_10.git>
+  182  git clone https://github.com/busrakurt86/HW_10.git
+  183  cd hw_10
+  184  touch text_ignore.txt
+  185  echo "text_ignore.txt"
+  186  git status
+  187  git add .
+  188  git commit -m "text_ignore.txt dosyası ignore listesine eklendi"
+  189  touch main_test.txt
+  190  git add .
+  191  git commit -m "main_test.txt dosyası eklendi"
+  192  git checkout -b develop
+  193  touch develop_test.txt
+  194  git add .
+  195  git commit -m "develop_test.txt dosyası eklendi"
+  196  echo "Bu dosyada değişiklik yapıldı."
+  197  git status
+  198  git add .
+  199  git commit -m "develop_test.txt dosyası güncellendi"
+  200  git checkout main
+  201  git merge develop
+  202  git log
+  203  history > command_list.csv
